@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="36" viewBox="0 0 600 36">
+  <style>
+    text {
+      font: 600 20px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+      fill: #768390;
+      text-anchor: middle;
+      opacity: 0;
+      animation: cycle 9s infinite;
+    }
+    .b { animation-delay: 3s; }
+    .c { animation-delay: 6s; }
+    @keyframes cycle {
+      0%   { opacity: 0; transform: translateY(6px); }
+      6%   { opacity: 1; transform: translateY(0); }
+      28%  { opacity: 1; transform: translateY(0); }
+      34%  { opacity: 0; transform: translateY(-6px); }
+      100% { opacity: 0; }
+    }
+  </style>
+  <text class="a" x="300" y="25">Full Stack Web Developer</text>
+  <text class="b" x="300" y="25">Full-stack web applications</text>
+  <text class="c" x="300" y="25">GenAI-powered features</text>
+</svg>

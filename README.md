@@ -4,7 +4,7 @@
 
 ### Full Stack Web Developer
 
-I build full-stack web applications and experiment with GenAI-powered features.
+I build full-stack web applications GenAI-powered features.
 
 `React` · `Node.js` · `Express` · `MongoDB` · `JavaScript` · `OpenAI`
 

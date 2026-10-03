@@ -2,8 +2,7 @@
 
 <h2>Hi, I'm Anuj Yadav 👋</h2>
 
-<img src="assets/role.svg" alt="Full Stack Web Developer" height="36"><br>
-I build full-stack web applications and GenAI-powered features.<br>
+<img src="assets/role.svg" alt="<img src="assets/role.svg" ...>atures.<br>
 <code>JavaScript</code> · <code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>OpenAI</code>
 
 <p>

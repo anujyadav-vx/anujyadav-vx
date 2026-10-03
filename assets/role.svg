@@ -18,5 +18,6 @@
     }
   </style>
   <text class="a" x="300" y="25">Full Stack Web Developer</text>
+  <text class="b" x="300" y="25">MERN Stack Developer</text>
   <text class="c" x="300" y="25">GenAI-powered features</text>
 </svg>

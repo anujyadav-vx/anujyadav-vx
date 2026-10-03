@@ -2,7 +2,8 @@
 
 <h2>Hi, I'm Anuj Yadav 👋</h2>
 
-<img src="assets/role.svg" alt="<img src="assets/role.svg" ...>atures.<br>
+<img src="https://raw.githubusercontent.com/anujyadav-vx/anujyadav-vx/main/assets/role.svg?v=2" alt="Full Stack Web Developer" height="36"><br>
+I build full-stack web applications and GenAI-powered features.<br>
 <code>JavaScript</code> · <code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>OpenAI</code>
 
 <p>
@@ -12,8 +13,10 @@
 </p>
 
 </div>
+
 <div align="center">
-Tech Stack
+
+<h3>Tech Stack</h3>
 
 | Area | Technologies |
 | --- | --- |
@@ -26,7 +29,8 @@ Tech Stack
 </div>
 
 <div align="center">
- Project
+
+<h3>Project</h3>
 
 **🛍️ Styleora** · MERN Stack · E-Commerce
 
@@ -35,10 +39,13 @@ A full-stack e-commerce platform with product search and filtering, cart, checko
 `React` `Node.js` `Express` `MongoDB` · [GitHub](https://github.com/anujyadav-vx/styleora) · [Live](https://styleora-lemon.vercel.app/)
 
 </div>
+
 <div align="center">
-Let's Connect
+
+<h3>Let's Connect</h3>
 
 If you'd like to talk about a project, development, or an opportunity, feel free to reach out.
 
 📧 [Email](mailto:anujy2855@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/anujyadav-fswd/) · 🌐 [Portfolio](https://portfolio-ten-pink-qfa6upxbik.vercel.app/)
+
 </div>

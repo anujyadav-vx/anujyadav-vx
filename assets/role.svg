@@ -5,15 +5,15 @@
       fill: #768390;
       text-anchor: middle;
       opacity: 0;
-      animation: cycle 9s infinite;
+      animation: fade 9s infinite;
     }
     .b { animation-delay: 3s; }
     .c { animation-delay: 6s; }
-    @keyframes cycle {
-      0%   { opacity: 0; transform: translateY(6px); }
-      6%   { opacity: 1; transform: translateY(0); }
-      28%  { opacity: 1; transform: translateY(0); }
-      34%  { opacity: 0; transform: translateY(-6px); }
+    @keyframes fade {
+      0%   { opacity: 0; }
+      8%   { opacity: 1; }
+      30%  { opacity: 1; }
+      38%  { opacity: 0; }
       100% { opacity: 0; }
     }
   </style>

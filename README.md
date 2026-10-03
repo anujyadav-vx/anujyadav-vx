@@ -4,22 +4,22 @@
 
 ### Full Stack Web Developer
 
-I build full-stack web applications GenAI-powered features.
+I build full-stack web applications and  GenAI-powered features.
 
-`React` · `Node.js` · `Express` · `MongoDB` · `JavaScript` · `OpenAI`
+`JavaScript` · `React` · `Node.js` · `Express` · `MongoDB` · `OpenAI`
 
 <br>
 
 <a href="https://github.com/anujyadav-vx">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/anujyadav-fswd/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://portfolio-ten-pink-qfa6upxbik.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
@@ -30,39 +30,32 @@ I build full-stack web applications GenAI-powered features.
 
 | Area | Technologies |
 | --- | --- |
-| **Frontend** | JavaScript · React.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap |
-| **Backend** | Node.js · Express.js · REST APIs |
-| **Database** | MongoDB · MySQL |
-| **GenAI** | OpenAI API · Prompt Engineering · LLM Integration · SSE |
-| **Tools** | Git · GitHub · VS Code · Postman |
+| 🖥️ **Frontend** | JavaScript · React.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap |
+| ⚙️ **Backend** | Node.js · Express.js · REST APIs |
+| 🗄️ **Database** | MongoDB · MySQL |
+| 🤖 **GenAI** | OpenAI API · Prompt Engineering · LLM Integration · SSE |
+| 🛠️ **Tools** | Git · GitHub · VS Code · Postman |
 
 ---
 
-## Projects
+## Project
 
 ### 🛍️ Styleora
 
 **MERN Stack · E-Commerce**
 
-A full-stack e-commerce platform with product browsing,
-search, filtering, cart, checkout and order history.
+A full-stack e-commerce platform 
 
+- Product catalog with search and filtering
+- Shopping cart, checkout and order history
+- REST APIs for product, cart, order and user operations
+- JWT-based authentication
+- Responsive UI with performance optimizations
+
+**Built with:**  
 `React` `Node.js` `Express` `MongoDB`
 
 [GitHub](https://github.com/anujyadav-vx/styleora) · [Live](https://styleora-lemon.vercel.app/)
-
----
-
-### 💬 Chat Assistant
-
-**React · Node.js · OpenAI**
-
-A GenAI-powered chat application with protected routes,
-session handling and streamed AI responses.
-
-`React` `Node.js` `Express` `OpenAI API` `SSE`
-
-[GitHub](https://github.com/anujyadav-vx/chat-assistant) · [Live](https://chat-assistant-gilt.vercel.app/)
 
 ---
 
@@ -73,3 +66,11 @@ If you'd like to talk about a project, development, or an opportunity, feel free
 📧 [Email](mailto:anujy2855@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/anujyadav-fswd/)  
 🌐 [Portfolio](https://portfolio-ten-pink-qfa6upxbik.vercel.app/)
+
+---
+
+<div align="center">
+
+Thanks for visiting 👋
+
+</div>

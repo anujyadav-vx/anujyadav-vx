@@ -1,8 +1,8 @@
 <div align="center">
 
 <h2>Hi, I'm Anuj Yadav 👋</h2>
-<img src="https://raw.githubusercontent.com/anujyadav-vx/anujyadav-vx/main/assets/line.svg?v=1" alt="" height="6"><br>
 
+<img src="https://raw.githubusercontent.com/anujyadav-vx/anujyadav-vx/main/assets/line.svg?v=1" alt="" height="6"><br>
 <img src="https://raw.githubusercontent.com/anujyadav-vx/anujyadav-vx/main/assets/role.svg?v=2" alt="Full Stack Web Developer" height="36"><br>
 I build full-stack web applications and GenAI-powered features.<br>
 <code>JavaScript</code> · <code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>OpenAI</code>
@@ -13,11 +13,13 @@ I build full-stack web applications and GenAI-powered features.<br>
 <a href="https://portfolio-ten-pink-qfa6upxbik.vercel.app/"><img height="24" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/anujyadav-vx/anujyadav-vx/main/assets/marquee.svg?v=1" alt="JavaScript, React, Node.js, Express, MongoDB, MySQL, Tailwind CSS, OpenAI API, Git" width="800">
+
 </div>
 
 <div align="center">
 
-<h3>Tech Stack</h3>
+<img src="https://raw.githubusercontent.com/anujyadav-vx/anujyadav-vx/main/assets/h-stack.svg?v=1" alt="Tech Stack" height="44">
 
 | Area | Technologies |
 | --- | --- |
@@ -31,7 +33,7 @@ I build full-stack web applications and GenAI-powered features.<br>
 
 <div align="center">
 
-<h3>Project</h3>
+<img src="https://raw.githubusercontent.com/anujyadav-vx/anujyadav-vx/main/assets/h-project.svg?v=1" alt="Project" height="44">
 
 **🛍️ Styleora** · MERN Stack · E-Commerce
 
@@ -43,7 +45,7 @@ A full-stack e-commerce platform with product search and filtering, cart, checko
 
 <div align="center">
 
-<h3>Let's Connect</h3>
+<img src="https://raw.githubusercontent.com/anujyadav-vx/anujyadav-vx/main/assets/h-connect.svg?v=1" alt="Let's Connect" height="44">
 
 If you'd like to talk about a project, development, or an opportunity, feel free to reach out.
 

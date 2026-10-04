@@ -1,6 +1,7 @@
 <div align="center">
 
 <h2>Hi, I'm Anuj Yadav 👋</h2>
+<img src="https://raw.githubusercontent.com/anujyadav-vx/anujyadav-vx/main/assets/line.svg?v=1" alt="" height="6"><br>
 
 <img src="https://raw.githubusercontent.com/anujyadav-vx/anujyadav-vx/main/assets/role.svg?v=2" alt="Full Stack Web Developer" height="36"><br>
 I build full-stack web applications and GenAI-powered features.<br>

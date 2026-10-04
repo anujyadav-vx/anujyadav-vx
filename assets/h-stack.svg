@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="44" viewBox="0 0 300 44">
+  <style>
+    text { font: 600 22px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #768390; text-anchor: middle; }
+    line { stroke: #2f81f7; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 60; stroke-dashoffset: 60; animation: draw 6s ease-in-out infinite; }
+    @keyframes draw {
+      0%   { stroke-dashoffset: 60; opacity: 1; }
+      30%  { stroke-dashoffset: 0;  opacity: 1; }
+      85%  { stroke-dashoffset: 0;  opacity: 1; }
+      100% { stroke-dashoffset: 0;  opacity: 0; }
+    }
+  </style>
+  <text x="150" y="26">Tech Stack</text>
+  <line x1="120" y1="36" x2="180" y2="36"/>
+</svg>

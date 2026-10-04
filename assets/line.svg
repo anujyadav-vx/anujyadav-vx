@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="6" viewBox="0 0 160 6">
+  <style>
+    line {
+      stroke: #2f81f7;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-dasharray: 150;
+      stroke-dashoffset: 150;
+      animation: draw 6s ease-in-out infinite;
+    }
+    @keyframes draw {
+      0%   { stroke-dashoffset: 150; opacity: 1; }
+      35%  { stroke-dashoffset: 0;   opacity: 1; }
+      85%  { stroke-dashoffset: 0;   opacity: 1; }
+      100% { stroke-dashoffset: 0;   opacity: 0; }
+    }
+  </style>
+  <line x1="5" y1="3" x2="155" y2="3"/>
+</svg>

@@ -35,7 +35,7 @@ I build Full-Stack Web Applications and GenAI-powered features.<br>
 
 **🛍️ Styleora** · MERN Stack · E-Commerce
 
-A full-stack e-commerce platform with product search and filtering, cart, checkout, order history, REST APIs and JWT authentication.
+A Full-Stack E-commerce platform with product search and filtering, cart, checkout, order history, REST APIs and JWT authentication.
 
 `React` `Node.js` `Express` `MongoDB` · [GitHub](https://github.com/anujyadav-vx/styleora) · [Live](https://styleora-lemon.vercel.app/)
 

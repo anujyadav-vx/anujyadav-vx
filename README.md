@@ -33,7 +33,7 @@ I build full-stack web applications and GenAI-powered features.<br>
 
 <h3>Project</h3>
 
-**🛍️ Styleora** · MERN Stack · E-Commerce
+**🛍️ StyleORA** · MERN Stack · E-Commerce
 
 A full-stack e-commerce platform with product search and filtering, cart, checkout, order history, REST APIs and JWT authentication.
 

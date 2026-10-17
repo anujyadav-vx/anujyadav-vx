@@ -17,7 +17,7 @@ I build Full-Stack Web Applications and GenAI-powered features.<br>
 
 <div align="center">
 
-<h3>Tech Stack</h3>
+<h3>Tech Stacks</h3>
 
 | Area | Technologies |
 | --- | --- |
@@ -37,7 +37,7 @@ I build Full-Stack Web Applications and GenAI-powered features.<br>
 
 A Full-Stack E-commerce platform with product search and filtering, cart, checkout, order history, REST APIs and JWT authentication.
 
-`React.js` `Node.js` `Express` `MongoDB` · [GitHub](https://github.com/anujyadav-vx/styleora) · [Live](https://styleora-lemon.vercel.app/)
+`React.js` `Node.js` `Express.js` `MongoDB` · [GitHub](https://github.com/anujyadav-vx/styleora) · [Live](https://styleora-lemon.vercel.app/)
 
 </div>
 

@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/anujyadav-vx/anujyadav-vx/main/assets/role.svg?v=2" alt="Full Stack Web Developer" height="36"><br>
 I build Full-Stack Web Applications and GenAI-powered features.<br>
-<code>JavaScript</code> · <code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>OpenAI</code>
+<code>JavaScript</code> · <code>React.js</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>OpenAI</code>
 
 <p>
 <a href="https://github.com/anujyadav-vx"><img height="24" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>

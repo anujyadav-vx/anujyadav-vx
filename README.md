@@ -45,7 +45,7 @@ A Full-Stack E-commerce platform with product search and filtering, cart, checko
 
 <h3>Let's Connect</h3>
 
-If you'd like to talk about a project, development, or an opportunity, feel free to reach out.
+If you'd like to talk about a projects, development, or an opportunity, feel free to reach out.
 
 📧 [EMAIL](mailto:anujy2855@gmail.com) · 💼 [LINKEDIN](https://www.linkedin.com/in/anujyadav-fswd/) · 🌐 [PORTFOLIO](https://portfolio-ten-pink-qfa6upxbik.vercel.app/)
 

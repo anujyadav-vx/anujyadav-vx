@@ -47,6 +47,6 @@ A Full-Stack E-commerce platform with product search and filtering, cart, checko
 
 If you'd like to talk about a projects, development, or an opportunity, feel free to reach out.
 
-📧 [Email](mailto:anujy2855@gmail.com) · 💼 [LINKEDIN](https://www.linkedin.com/in/anujyadav-fswd/) · 🌐 [PORTFOLIO](https://portfolio-ten-pink-qfa6upxbik.vercel.app/)
+📧 [Email](mailto:anujy2855@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/anujyadav-fswd/) · 🌐 [PORTFOLIO](https://portfolio-ten-pink-qfa6upxbik.vercel.app/)
 
 </div>
